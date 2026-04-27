@@ -80,7 +80,6 @@ signed main(){
         }
         vel_x = velocidades.first;
         vel_y = velocidades.second;
-        cout << distancia << endl;
     }
     cout << fixed << setprecision(15) << distancia << endl;
 }
